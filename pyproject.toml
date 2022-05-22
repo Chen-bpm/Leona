@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "Leona"
+version = "0.1.0"
+description = "Leona"
+authors = []
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.7.3"
+nonebot2 = "^2.0.0-beta.1"
+
+[tool.poetry.dev-dependencies]
+nb-cli = "^0.6.0"
+
+[tool.nonebot]
+plugins = ["nonebot_plugin_covid19_news", "nonebot_plugin_fortune", "nonebot_plugin_translator", "nonebot_plugin_abstract", "nonebot_plugin_giyf", "nonebot_plugin_remake", "nonebot_plugin_caiyunai", "nonebot_plugin_russian", "nonebot_plugin_simplemusic", "nonebot_plugin_mcstatus"]
+plugin_dirs = ["leona/plugins"]
+
+[build-system]
+requires = ["poetry_core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

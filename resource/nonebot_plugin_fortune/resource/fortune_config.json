@@ -1,0 +1,22 @@
+{
+    "fortune_path": "c:\\users\\cyx\\appdata\\local\\programs\\python\\python38\\lib\\site-packages\\nonebot_plugin_fortune\\resource",
+    "arknights_flag": false,
+    "asoul_flag": false,
+    "azure_flag": false,
+    "genshin_flag": false,
+    "onmyoji_flag": false,
+    "pcr_flag": false,
+    "touhou_flag": true,
+    "touhou_lostword_flag": true,
+    "touhou_olg_flag": false,
+    "hololive_flag": false,
+    "granblue_fantasy_flag": false,
+    "punishing_flag": false,
+    "pretty_derby_flag": true,
+    "dc4_flag": false,
+    "einstein_flag": true,
+    "sweet_illusion_flag": false,
+    "liqingge_flag": false,
+    "hoshizora_flag": true,
+    "sakura_flag": false
+}
